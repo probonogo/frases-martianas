@@ -1,5 +1,5 @@
-# frases-martianas
-Frases Martianas - búsqueda de frases y temas
+# Frases martianas
+Frases Martianas - búsqueda de frases en la obra de José Martí, el apóstol cubano.
 
 # Objetivo
 
